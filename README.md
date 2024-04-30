@@ -25,9 +25,9 @@
 - Orlando Arturo Roca Huapaya - u201919742
 - Gustavo Jandroel Aguirre Rodriguez - u202124162
 
-**Ciclo:** 2023-02
+**Ciclo:** 2024-01
 
-**Mes:** Setiembre
+**Mes:** Mayo
 
 
 # Registro de Versiones del Informe
@@ -264,287 +264,31 @@
 
 ### 4.4.1. Web Applications Wireframes. <a name="441-web-applications-wireframes"></a>
 
-
 ### 4.4.2. Web Applications Wireflow Diagrams. <a name="442-web-applications-wireflow-diagrams"></a>
 
-User goal: Usuario se registra, inicia sesión o recupera su contraseña en la plataforma.
+### 4.4.3. Web Applications Mock-ups. <a name="443-web-applications-mock-ups"></a>
 
-![](images-chapter5/wireflows-diagrams/registro-iniciosesion-recuperacion.png)
-
-**Descripción:**
-
-Al estar en la pestaña de bienvenida, el usuario tiene dos opciones: registrarse de manera gratuita rellenando el formulario con sus datos personales o iniciar sesión rellenando el formulario con su correo y contraseña. Además, puede recibir un correo para recuperar su contraseña si en caso se le olvidó.
-
-**User goal: Preguntas frecuentes y contacto a Servicio Técnico.**
-
-![](images-chapter5/wireflows-diagrams/preguntas-soporte.png)
-
-**Descripción:**
-
-Al entrar en la pestaña de inicio, el usuario puede seleccionar la opción de preguntas frecuentes. El usuario puede seleccionar entre las preguntas frecuentes de vendedores o usuarios clientes. Si no consigue resolver sus dudas, puede contactar con soporte técnico.
-
-**User goal: Editar perfil y cambiar métodos de pago.**
-
-![](images-chapter5/wireflows-diagrams/perfil-metodo-pago.png)
-
-**Descripción:**
-
-Al entrar en la pestaña de inicio, el usuario puede darle a su perfil y editar los datos necesarios. Asimismo, podrá cambiar sus métodos de pago
-
-.
-
-**User goal: Búsqueda de Componentes y visualización de favoritos.**
-
-![](images-chapter5/wireflows-diagrams/busqueda-favoritos.png)
-
-**Descripción:**
-
-Al entrar en la pestaña de inicio, el usuario podrá buscar los componentes que quiera, además si le da a su nombre de usuario, visualizará la opción  de favoritos. Dentro de esta pestaña podrá ver los componentes que marcó como favoritos.
-
-**User goal: Visualización del historial de pagos.**
-
-![](images-chapter5/wireflows-diagrams/historial-pagos.png)
-
-**Descripción:**
-
-Al entrar en la pestaña de inicio, el usuario puede seleccionar la pestaña con el nombre del usuario y entrar a historial de pagos. Dentro de la pestaña historial de pagos, el usuario puede visualizar los pagos que ha hecho con su respectiva fecha, método de pago, importe y nombre del vendedor.
-
-**User goal: Visualización de Suscripciones.**
-
-![](images-chapter5/wireflows-diagrams/suscripciones.png)
-
-**Descripción:**
-
-Al entrar en la pestaña de inicio, el usuario puede seleccionar la pestaña con el nombre del usuario y entrar a suscripciones. En este apartado el usuario tendrá la opción de escoger entre distintos tipos de suscripción para beneficios en la aplicación.
-
-**User goal: Búsqueda y pago de componentes.**
-
-![](images-chapter5/wireflows-diagrams/busqueda-pago.png)
-
-**Descripción:**
-
-Al entrar en la pestaña de inicio, el usuario puede buscar los componentes de su interés, al encontrar uno, podrá visualizar sus características, para posteriormente comprarlo.
-
-
-### 4.4.2. Web Applications Mock-ups. <a name="443-web-applications-mock-ups"></a>
-
-User goal: Preferencia y gestión de cuenta de los usuarios.
-
-- Registro de Sesión
-
-![](images-chapter5/mockups/registro.png)
-
-- Inicio de Sesión
-
-![](images-chapter5/mockups/inicio%20de%20sesion.png)
-
-- Recuperar Contraseña
-
-![](images-chapter5/mockups/recuperar-contrasena.png)
-
-- Métodos de pago.
-
-![](images-chapter5/mockups/Métodos%20de%20pago.png)
-
-- Historial de pagos
-
-![](images-chapter5/mockups/historial-pagos.png)
-
-User goal: Funcionalidades de Búsqueda para Componentes.
-
-- Búsqueda de un componente.
-
-![](images-chapter5/mockups/busqueda-componentes.png)
-
-- Navegación por favoritos.
-
-![](images-chapter5/mockups/favoritos.png)
-
-User goal: Soporte al cliente y experiencia de servicio.
-
-- Preguntas Frecuentes
-
-![](images-chapter5/mockups/preguntas-frecuentes.png)
-
-User goal: Funcionalidad de Pagos
-
-- Visualización y confirmación de pago.
-
-![](images-chapter5/mockups/confirmacion-pago.png)
-
-- Suscripciones
-
-![](images-chapter5/mockups/suscripciones.png)
-
-
-### 4.4.3. Web Applications User Flow Diagrams. <a name="444web-applications-user-flow-diagrams"></a>
-
-- Registro e Inicio de Sesión
-
-![](images-chapter5/userflow-diagrams/registro-inicio-sesion.png)
-
-
-- Preguntas Frecuentes y Soporte Técnico
-
-![](images-chapter5/userflow-diagrams/preguntas-soporte.png)
-
-- Compra de un componente.
-
-![](images-chapter5/userflow-diagrams/compra-componente.png)
-
+### 4.4.4. Web Applications User Flow Diagrams. <a name="444web-applications-user-flow-diagrams"></a>
 
 ## 4.5. Web Applications Prototyping. <a name="45-web-applications-prototyping"></a>
 
-En esta sección, hemos desarrollado un prototipo de la aplicación web utilizando Figma. Además, se elaboró un video que permite una comprensión completa de la interfaz de la aplicación, destacando la ubicación de cada sección importante. Este prototipo incorpora los objetivos de usuario específicos de nuestros segmentos objetivo (Usuario/Vendedor).
-
-![](images-chapter5/prototyping/prototipo.png)
-
-**Link del prototipo: <https://www.figma.com/file/BMO4VvH6k4huMoU6qYDIyn/Prototype---TechShop?type=design&node-id=0%3A1&mode=design&t=1Zz1SG0wtxEoFZ3J-1>** 
-
-**Link del video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124162_upc_edu_pe/EcXtN-bSh6RJkv9QDrzr_4cBmmHq53i-b7ZQmRq_RD--XQ?e=LWUOSH>** 
-
-**Capturas de pantalla del video:**
-
-
-
-
-- Apartado de Registro 
-
-![](images-chapter5/prototyping/registro.png)
-
-
-
-
-- Apartado de Búsqueda de Componentes
-
-![](images-chapter5/prototyping/busqueda.png)
-
-
-
-
-- Apartado de perfil
-
-![](images-chapter5/prototyping/perfil.png)
-
-
-
-
-- Apartado de compras y método de pagos
-
-![](images-chapter5/prototyping/compra.png)
-
 ## 4.6. Domain-Driven Software Architecture. <a name="46-domain-driven-software-architecture"></a>
+
 ### 4.6.1. Software Architecture Context Diagram. <a name="461-software-architecture-context-diagram"></a>
-
-A continuación, se mostrará el Context Diagram de nuestra aplicación el cual nos permitirá establecer un buen punto de partida para poder diagramar y documentar nuestro sistema de manera general.
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1149958498755555388/1.1.JPG?width=958&height=676">
-    </td>
-  </tr>
-<br>
 
 ### 4.6.2. Software Architecture Container Diagrams. <a name="462-software-architecture-container-diagrams"></a>
 
-A continuación, se mostrará el Container Diagram de nuestra aplicación en el cual se visualiza la forma de alto nivel de la arquitectura del software y cómo se distribuyen las responsabilidades en ella.
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1157545210713227355/image.png?ex=6518ff7c&is=6517adfc&hm=ead9cb0278741ac17d6358293af3606221fc54f1240c5a5f8a70ec66f13c99d6&=&width=962&height=676">
-    </td>
-  </tr>
-<br>
-
 ### 4.6.3. Software Architecture Components Diagrams. <a name="463-software-architecture-components-diagrams"></a>
 
-A continuación, se mostrará el Component Diagram en el cual se descompone el contenedor “API Application” y se identifican los principales bloques de construcción estructurales y sus interacciones.
-
-### Componente IMS App
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1149959365076463656/3.3.JPG?width=961&height=676">
-    </td>
-  </tr>
-<br>
-
-### Componente Verificación de cuenta
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1149959375872593971/3.4.JPG?width=955&height=676">
-    </td>
-  </tr>
-<br>
-
-### Componente Creación de cuenta
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1149959388786872330/3.5.JPG?width=962&height=676">
-    </td>
-  </tr>
-<br>
-
-### Componente Notificaciones
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/610911183339388978/1149959402472874065/3.6.JPG?width=952&height=676">
-    </td>
-  </tr>
-<br>
-
-
-Link del structuriz -> https://structurizr.com/share/77547/38021e1c-f520-406c-abdb-3b7b54326c66/diagrams#Contenedor
-
 ## 4.7. Software Object-Oriented Design. <a name="47-software-object-oriented-design"></a>
+
 ### 4.7.1. Class Diagrams. <a name="471-class-diagrams"></a>
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1149997559444672573/Diagrama_de_clase_TechShop.png"></center>
-    </td>
-  </tr>
-<br>
-
-[Diagrama de clases](https://drive.google.com/file/d/1E-qaWEXrm9yYL5iFyc1zxCPxPna7dXEi/view?usp=sharing)
 
 ### 4.7.2. Class Dictionary. <a name="472-class-dictionary"></a>
 
-|Nombre|Descripción|
-| :-: | :-: |
-|User|Clase padre de Seller y Customer, encargada de la autenticación del usuario|
-|Customer|Clase hija de User, encargada de identificar a los usuario de tipo customer|
-|Seller|Clase hija de User, encargada de identificar a los usuarios de tipo Seller|
-|Account|Encargada de declarar los beneficios del usuario|
-|Subscription|Encargada de declarar las suscripciones que tendra la cuenta|
-|Plan|Encargada de definir los tipos de planes y su duracion|
-|PlanType|Define los tipos de planes|
-|SalesOrden|Encargada de controlar los items, y definir al vender y al cliente en la orden de compra |
-|SalesOrdenItem|Encargada de declarar el producto, la cantidad y el precio unitario|
-|Product|Encargada de declarar la información del producto|
-|CustomerPayment|Encargada de realizar la compra de la orden|
-|CreditCard|Encargada de declarar la información de las tarjetas de credito|
-|SerchComponent|Encargada de buscar los componentes que necesita el usuario.|
-|Requirement|Encargada de definir los requerimientos del usuario, para contruir su computadora|
-|Program|Encargada de definir los programas que usará el usuario en su computadora|
-|Category|Encargada de definir la categoria del programa|
-
-
-
 ## 4.8. Database Design. <a name="48-database-design"></a>
+
 ### 4.8.1. Database Diagram. <a name="481-database-diagram"></a>
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <center><img src="https://cdn.discordapp.com/attachments/782453162409328641/1149997542352883733/Diagrama_base_de_datos_TechShop.drawio.png"></center>
-    </td>
-  </tr>
-<br>
-
-[Diagrama de base de datos](https://drive.google.com/file/d/1L4b3JzFnEZNRVmTpG1lnVg9T6JHnWVew/view?usp=sharing)
-
 
 # Capítulo V: Product Implementation, Validation & Deployment <a name="1"></a>
 
