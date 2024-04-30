@@ -35,7 +35,7 @@
 | Versión | Fecha      | Autor   | Descripción de modificación                                     |
 |---------|------------|---------|-----------------------------------------------------------------|
 | TB1     | 21-08-2023 | Orlando | Se crearon los archivos md del capitulo 1 y 2 en el repositorio |
-| TB1     | 09-09-2023 | Louis   | Avance el capitulo 2 y 4 en el repositorio                      |
+| TB1     | 09-09-2023 | Gustavo   |  |
 
 
 
