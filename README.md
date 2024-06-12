@@ -25,6 +25,7 @@
 - Orlando Arturo Roca Huapaya - u201919742
 - Gustavo Jandroel Aguirre Rodriguez - u202124162
 - Paolo Sebastian Padilla Advincula - u202117993
+- Dueñas Canales Leonardo Manuel -202117475
 
 **Ciclo:** 2024-01
 
