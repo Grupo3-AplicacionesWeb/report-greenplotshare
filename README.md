@@ -1728,31 +1728,6 @@ TAREAS A EVALUAR:
 
 6.	Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard 
 
-7.	Evaluar existencia de patrones de diseño o navegación 
-
-8.	Elementos de la interfaz de usuario consistentes 
-
-9.	Pestañas de navegación dentro de la aplicación 
-
-10.	Botones interactivos y de uso intuitivo 
-
-11.	Búsqueda de procesos y cultivos con registro previo 
-
-12.	Navegación y orientación dentro de la aplicación 
-
-13.	Apertura y visualización de cultivos registrados 
-
-14.	Visualización de perfil de usuario 
-
-15.	Visualización del perfil de la empresa 
-
-16.	Mensajes que orienten al usuario sobre el estado del sistema 
-
-17.	Cambio de idioma de la aplicación 
-
-18.	Estética general de la interfaz atractiva y agradable visualmente. 
-
- 
 
 No están incluidas en esta versión de la evaluación las siguientes tareas: 
 
