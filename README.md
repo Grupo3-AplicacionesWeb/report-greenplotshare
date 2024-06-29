@@ -1803,6 +1803,11 @@ El proceso de entrevistas realizado por GreenPlotShare ha sido fundamental para 
 
 En conclusión, GreenPlotShare ha demostrado un enfoque integral y centrado en el usuario en todas las etapas de desarrollo, desde la planificación hasta la implementación, lo que posiciona a la plataforma de manera sólida para abordar eficazmente el problema de acceso a tierras para la agricultura en entornos rurales. 
 
+## Video About the Team 
+
+En esta sección se incluye el video de About the Team donde se explica el proceso de trabajo realizado hasta el sprint 4, los métodos de comunicación entre el equipo y las herramientas empleadas. Luego, cada miembro del equipo presenta un testimonio acerca de sus actividades realizadas, el rol en el equipo y los logros obtenidos en el proceso de trabajo. 
+
+Link en Microsoft Stream: upc-pre-202401-SI-sw52-GreenPlotShare-aboutthe-team-sprint-4.mp4 
 
 # Bibliografía  <a name="34"></a>
 
