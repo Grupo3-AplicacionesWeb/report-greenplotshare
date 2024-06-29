@@ -1778,6 +1778,18 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 ## 5.4. Video About-the-Product. 
 
 ![imagen](https://cdn.discordapp.com/attachments/1249927181799522345/1250341341200912456/image.png?ex=666a969d&is=6669451d&hm=3452d3b6cb79e51757bf43987405daca12af2d4e14518756b4be0e5aed1ecaeb&)
+
+
+Video About the Team 
+
+En esta sección se incluye el video de About the Team donde se explica el proceso de trabajo realizado hasta el sprint 4, los métodos de comunicación entre el equipo y las herramientas empleadas. Luego, cada miembro del equipo presenta un testimonio acerca de sus actividades realizadas, el rol en el equipo y los logros obtenidos en el proceso de trabajo. 
+
+Link en Microsoft Stream: upc-pre-202401-SI-sw52-GreenPlotShare-aboutthe-team-sprint-4.mp4 
+
+  
+
+Link en Youtube: https://youtu.be/LDDiHq00nE 
+
 # Conclusiones<a name="31"></a>
 ## Conclusiones Conclusiones y recomendaciones. <a name="32"></a>
 
